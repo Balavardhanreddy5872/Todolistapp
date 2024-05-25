@@ -1,0 +1,45 @@
+# To-Do List Application
+
+This is a simple To-Do List application that allows users to manage their tasks. The application supports creating, reading, updating, and deleting (CRUD) tasks. Each task has a title, description, status, and due date.
+
+## Features
+
+- Create new tasks
+- View all tasks
+- Update existing tasks
+- Delete tasks
+
+## Technologies Used
+
+- Frontend: React
+- Backend: Node.js, Express
+- Data Storage: In-memory.
+
+## Setup Instructions
+
+### Prerequisites
+
+- Node.js and npm installed on your machine.
+
+### Backend Setup
+
+- Download the File and move todo-app-backend directory and run "npm install" command in the terminal.
+- This is to setup the nodemodules required.
+
+### Frontend Setup 
+
+- Download the File and move todo-app-frontend directory and  run "npm install" command in the terminal.
+
+
+### How to run ?
+
+- Move to directory 'todo-app-backend' in the terminal and run "node index.js" command in the terminal.
+
+- Move to directory 'todo-app-frontend' in the terminal and run "npm run start/npm start" command in the terminal.
+
+### Details : 
+
+- Add tasks accordingly 
+- see the added tasks , able to edit 
+- able to delte tasks also.
+
